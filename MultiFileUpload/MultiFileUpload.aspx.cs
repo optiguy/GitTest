@@ -9,6 +9,7 @@ namespace MultiFileUpload
 {
     public partial class MultiFileUpload : System.Web.UI.Page
     {
+
         private List<string> messages = new List<string>();
         private int maxAllowedFileSize = 1024 * 1000 * 12;
         private List<string> allowedFileTypes = new List<string>(){
