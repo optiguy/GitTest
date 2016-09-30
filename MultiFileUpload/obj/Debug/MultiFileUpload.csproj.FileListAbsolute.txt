@@ -1,0 +1,6 @@
+c:\users\bbr\Desktop\Sites\MultiFileUpload\MultiFileUpload\bin\MultiFileUpload.dll.config
+c:\users\bbr\Desktop\Sites\MultiFileUpload\MultiFileUpload\bin\MultiFileUpload.dll
+c:\users\bbr\Desktop\Sites\MultiFileUpload\MultiFileUpload\bin\MultiFileUpload.pdb
+c:\users\bbr\Desktop\Sites\MultiFileUpload\MultiFileUpload\obj\Debug\MultiFileUpload.csprojResolveAssemblyReference.cache
+c:\users\bbr\Desktop\Sites\MultiFileUpload\MultiFileUpload\obj\Debug\MultiFileUpload.dll
+c:\users\bbr\Desktop\Sites\MultiFileUpload\MultiFileUpload\obj\Debug\MultiFileUpload.pdb
